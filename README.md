@@ -1,8 +1,8 @@
 <strong>**#CodeThread**</strong>\
-**CodeThread** is a **Synchronized collaborative** coding platform built with **MERN** stack that allows multiple users to connect and work together on coding projects. It utilizes web sockets for seamless communication between users.
+**CodeThread** is a **Synchronized collaborative** coding platform built with **React and Node** stack that allows multiple users to connect and work together on coding projects. It utilizes web sockets for seamless communication between users.
 
 **Features**\
-CodeThread enables **multiple users** to simultaneously write code in real-time. As you make changes to the code, other users in the same room will see those changes instantly. This makes it easy to collaborate, review code, and brainstorm ideas together.
+CodeThread enables **multiple users** to simultaneously write code in real time. As you make changes to the code, other users in the same room will see those changes instantly. This makes it easy to collaborate, review code, and brainstorm ideas together.
 
 You can create your own room or join an existing one. The room-based system allows you to code with your friends on specific projects simultaneously.
 
